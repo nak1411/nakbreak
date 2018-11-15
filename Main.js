@@ -1,3 +1,10 @@
+/**
+ * © 2018 Justin Schlump
+ * This code is licensed under MIT license (see LICENSE.txt for details)
+ * 
+ * NakBreak is a breakout clone created by Justin Schlump
+ */
+
 //GAME VARS
 let canvas = document.getElementById('game');
 let screenWidth = canvas.width;
